@@ -1,0 +1,5 @@
+run file:
+mainpro_FER.py
+
+command line parameters:
+--bs=8 --lr=0.01
