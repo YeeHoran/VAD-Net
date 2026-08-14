@@ -1,0 +1,1 @@
+In train process, it uses MSE loss, while in public and private test, it uses RMSE loss to compute and record. In this way, it guarantees train consistency since it uses diff component in computing loss. At the same time, it enhances interpretability in public and private test by using RMSE loss.
